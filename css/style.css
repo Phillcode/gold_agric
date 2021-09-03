@@ -15,6 +15,9 @@ nav{
     background:#999 !important;
 }
 
+div{
+    font-family: 'Work Sans', sans-serif;
+}
 
 .nav-tabs{
     justify-content: space-around;
